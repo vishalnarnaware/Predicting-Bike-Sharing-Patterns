@@ -1,2 +1,2 @@
 # Deep Learning Nanodegree
-## Project: Predicting Bike Sharing Patterns
+## Project 1: Predicting Bike Sharing Patterns
